@@ -1,0 +1,4 @@
+IntelliReport
+=============
+
+Reporteador dinámico
